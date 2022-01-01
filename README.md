@@ -1,3 +1,14 @@
+# Env
+```bash
+➜  tips-teknum git:(main) composer --version
+Composer version 2.2.1 2021-12-22 22:21:31
+➜  tips-teknum git:(main) php --version
+PHP 7.4.27 (cli) (built: Dec 20 2021 21:27:56) ( NTS )
+Copyright (c) The PHP Group
+Zend Engine v3.4.0, Copyright (c) Zend Technologies
+    with Zend OPcache v7.4.27, Copyright (c), by Zend Technologies
+```
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
